@@ -1,0 +1,54 @@
+{
+  "notes": [
+    {
+      "content": "custom-hooks are grat",
+      "id": 1
+    },
+    {
+      "content": "the best featrure ever <3",
+      "id": 2
+    },
+    {
+      "content": "A note can be created",
+      "id": 3
+    },
+    {
+      "content": "A note can be created",
+      "id": 4
+    },
+    {
+      "content": "So it IS working atm",
+      "id": 5
+    },
+    {
+      "content": "Let me try it",
+      "id": 6
+    },
+    {
+      "content": "Let me try it again",
+      "id": 7
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "kaltsoon",
+      "number": "045-2323456",
+      "id": 2
+    },
+    {
+      "name": "Person",
+      "number": "123123123123",
+      "id": 3
+    },
+    {
+      "name": "Let me try this ",
+      "number": "131231321",
+      "id": 4
+    }
+  ]
+}

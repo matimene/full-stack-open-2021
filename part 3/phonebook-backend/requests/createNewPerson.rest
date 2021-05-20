@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/persons/
+content-type: application/json
+
+{
+    "name": "Trying if it work after mongoose integration",
+    "number": "1234567"
+}

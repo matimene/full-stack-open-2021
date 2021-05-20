@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/blogs/
+content-type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImxvZ2dnaW4iLCJpZCI6IjYwNzg1Mjc2YzBlMTE4Mjg1NDk1ZjFjNyIsImlhdCI6MTYxODQ5ODMwMCwiZXhwIjoxNjE4NTAxOTAwfQ.nhpazbYZx4_xL9V7_NY_2lNbSd0N6reM1RjWBbz0kTM
+
+{
+    "title": "To test if token authorization is correct DELETE",
+    "author": "Myself",
+    "url": "www.google.com/testing",
+    "likes": 0
+}
