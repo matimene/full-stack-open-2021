@@ -3,7 +3,7 @@
 This repository contains exercise solutions to the 2021 edition of the Full Stack Open course from the University of Helsinki.
 
 
-[View Certificate](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/f5f6be8d637bb6201e2f8226f72685f3)
+[View Certificate (GRADE 5)](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/f5f6be8d637bb6201e2f8226f72685f3)
 
 ## Part 9 - [Typescript](https://fullstackopen.com/en/part9)
 
