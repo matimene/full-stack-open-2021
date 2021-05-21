@@ -1,4 +1,4 @@
-# [Full Stack Open 2020](https://fullstackopen.com/en/)
+# [Full Stack Open 2021](https://fullstackopen.com/en/)
 
 This repository contains exercise solutions to the 2021 edition of the Full Stack Open course from the University of Helsinki.
 
